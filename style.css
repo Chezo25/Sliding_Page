@@ -71,3 +71,22 @@
     text-align: center;
     color: #fff;
 }
+
+.title {
+    font-size: 70px;
+    line-height: 100px;
+    font-weight: bold;
+}
+
+.content p {
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+    font-family: sans-serif;
+}
+
+button {
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 18px;
+}
