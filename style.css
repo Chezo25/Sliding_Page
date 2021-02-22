@@ -70,6 +70,11 @@
         font-size: 70px;
         line-height: 100px;
         font-weight: bold;
+        height: 100px;
+        text-align: left;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     
     .content p {
@@ -96,4 +101,10 @@
     button:hover {
         background-position: right;
         color: #000;
+    }
+    
+    .slider {
+        color: #ffc107;
+        margin-left: 12px;
+        box-sizing: border-box;
     }
