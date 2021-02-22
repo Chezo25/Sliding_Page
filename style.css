@@ -89,4 +89,9 @@ button {
     padding: 15px 25px;
     margin: 20px;
     font-size: 18px;
+    letter-spacing: 1px;
+    border: 2px solid #ffc107;
+    color: #fff;
+    cursor: pointer;
+    background: linear-gradient(to right, transparent 50%, #ffc107 50%);
 }
